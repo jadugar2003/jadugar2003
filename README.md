@@ -40,12 +40,10 @@
 
 ---
 
-## 🜁 The Serpent of Time
+## 🐍 The Serpent of Commitments
 
-<!-- Snake animation (you must set up workflow in your repo to generate this file) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jadugar2003/jadugar2003/output/github-contribution-grid-snake-dark.svg" />
-</p>
+![The Serpent of Commitments](https://raw.githubusercontent.com/jadugar2003/jadugar2003/output/philosophical-snake-dark.svg)
+
 
 ---
 
